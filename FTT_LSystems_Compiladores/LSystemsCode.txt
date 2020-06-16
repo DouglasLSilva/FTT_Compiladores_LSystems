@@ -12,7 +12,7 @@ n   ☞ Passos, etapas
 pX  ☞ Regras de produção
 
 Σ : X, R, F, +, -
-n : 2
+n : 5
 ω : X
 δ : 22.5º
 p1 : X->F-[[X]+X]+F[+FX]-X
